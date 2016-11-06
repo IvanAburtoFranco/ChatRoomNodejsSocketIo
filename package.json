@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Simple chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo  \"error\""
+  },
+  "author": "Iván Aburto Franco",
+  "license": "ISC",
+  "dependencies":{
+    "socket.io":"*",
+    "express":"*"
+  }
+}
